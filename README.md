@@ -1,12 +1,44 @@
--👋 Hi, I’m @vaishnaviparabkar90  
--👀 I’m interested in full-stack web development,backend logic .   
--💞️ I’m looking to collaborate on  web applications.
--📫 How to reach me: [parabkarvaishnavi24@gmail.com]  
--😄 Pronouns: She/Her  
--⚡ Fun fact: I’m supposed to be mastering circuits in Electronics, but here I am debugging code more than wiring circuits. Turns out React hooks and APIs are just as electrifying as resistors!  
+<h1 align="center">Hi there, I'm Vaishnavi 👋</h1>
+<p align="center">
+  🚀 Full-Stack Web Developer | 🧠 Backend Logic Enthusiast | 🎯 Lifelong Learner
+</p>
 
+---
 
-<!---
-vaishnaviparabkar90/vaishnaviparabkar90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 **About Me**
+
+- 🔍 Passionate about **full-stack web development**, especially diving deep into **backend logic** and crafting seamless digital experiences.
+- 💡 Currently exploring the endless magic of **APIs, Node.js, React, and databases**.
+- 🤝 Open to collaborating on impactful **web applications** and real-world projects that make a difference.
+- 📧 Reach me at: [parabkarvaishnavi24@gmail.com](mailto:parabkarvaishnavi24@gmail.com)
+- 👩 Pronouns: **She/Her**
+
+---
+
+⚡ **Fun Fact**
+
+I’m supposed to be mastering circuits in Electronics, but somehow debugging code excites me more than fixing resistors.  
+Who knew **React hooks** and **server-side logic** would end up being more electrifying than wiring a PCB?
+
+---
+
+💻 **Tech Stack**
+
+- **Frontend**: React.js, HTML5, CSS3, JavaScript, Tailwind CSS  
+- **Backend**: Node.js, Express.js, MongoDB, postgressql
+- **Tools**: Git, GitHub, Postman, VS Code  
+- **Currently Learning**:  Redis, and advanced backend architecture  
+
+---
+
+📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnaviparabkar90&show_icons=true&theme=radical" alt="Vaishnavi's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnaviparabkar90&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+🌐 *Let’s build something awesome together!*
