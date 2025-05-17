@@ -34,9 +34,11 @@ Who knew **React hooks** and **server-side logic** would end up being more elect
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnaviparabkar90&show_icons=true&theme=radical" alt="Vaishnavi's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnaviparabkar90&theme=radical" alt="GitHub Streak" />
+  <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vaishnaviparabkar90&show_icons=true&theme=radical" alt="Vaishnavi's GitHub stats" />
+
 </p>
 
 ---
