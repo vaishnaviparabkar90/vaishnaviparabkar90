@@ -26,7 +26,7 @@ Who knew **React hooks** and **server-side logic** would end up being more elect
 
 - **Frontend**: React.js, HTML5, CSS3, JavaScript, Tailwind CSS  
 - **Backend**: Node.js, Express.js, MongoDB, postgressql
-- **Tools**: Git, GitHub, Postman, VS Code  
+- **Tools**: Git, GitHub, Postman, VS Code,firebase, superbase,render,netlify 
 - **Currently Learning**:  Redis, and advanced backend architecture  
 
 ---
