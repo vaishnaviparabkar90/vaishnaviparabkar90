@@ -25,11 +25,18 @@
 ---
 ## Hacktoberfest 2025 
 <a href="https://holopin.io/@vaishnaviparabkar90">
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="300" alt="Level 0 Human"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="150" alt="Level 0 Human"/>
 </a>
 <a href="https://holopin.io/@vaishnaviparabkar90">
-  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="300" alt="Level 1 Human"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="150" alt="Level 1 Human"/>
 </a>
+<a href="https://holopin.io/@vaishnaviparabkar90">
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="150" alt="Level 1 Human"/>
+</a>
+<a href="https://holopin.io/@vaishnaviparabkar90">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150" alt="Level 1 Human"/>
+</a>
+
 
 
 ---
