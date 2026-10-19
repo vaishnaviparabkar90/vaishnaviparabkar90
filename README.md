@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vaishnavi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Data+Science+%7C+AI%2FML;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights+%F0%9F%93%8A;Building+with+Data+%26+AI+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Python+%7C+SQL;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+RAG;Building+AI-Powered+Applications" alt="Typing SVG" />
 </p>
 
 ---
@@ -49,11 +49,6 @@ My technical interests span from **data analytics and visualization** to **machi
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
----
-
-## 📈 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=vaishnaviparabkar90&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 ## 🎃 Hacktoberfest 2025 
